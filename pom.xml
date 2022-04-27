@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.alecuba16.cdap</groupId>
-  <artifactId>spark_source_plugin</artifactId>
+  <artifactId>spark_streaming_source_plugin</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>Spark source CDAP Example Plugin</name>
+  <name>Spark streaming source CDAP Example Plugin</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
